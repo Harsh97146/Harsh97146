@@ -19,6 +19,6 @@
 <a href="mailto:savaliyaharsh385@gmail.com">
   <img height="35" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
-<a href="www.linkedin.com/in/harsh-savaliya-7128a7269">
+<a href="www.linkedin.com/in/harsh-savaliya">
   <img height="35" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
