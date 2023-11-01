@@ -1,5 +1,5 @@
 
-<h2>Hi - I’m <a href="https://www.linkedin.com/in/akshay-lad-016/">Akshay Lad</a></h2>
+<h2>Hi - I’m <a href="https://www.linkedin.com/in/akshay-lad-016/">Harsh Savaliya</a></h2>
 
 
 <a href="https://github.com/akshay-lad/" ><img src="https://media.licdn.com/dms/image/D4D03AQFuEXNLGnmTQA/profile-displayphoto-shrink_200_200/0/1698817571895?e=1704326400&v=beta&t=24hITAkMWby4hBQXUzm23kB3k8Je6UQBo40uEv_YmPg" /></a>
